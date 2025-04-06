@@ -1,25 +1,18 @@
-# create-repository
+# Tesla Dynamics Investment Website
 
-Easily set up a new github repository. Reads the name/description from the package.json file if it's present. Sets origin upstream if it's not already set.
+This is the official frontend of the Tesla Dynamics Investment platform. Built with plain HTML, CSS, and JavaScript.
 
-```
-npm install create-repository -g
-```
+## Features
+- Responsive homepage
+- Admin dashboard (coming soon)
+- Integration with Tesla Logistics API
 
-## Usage
+## Setup
+1. Clone the repository
+2. Open `index.html` in a browser
 
-`create-repository` will try to read `package.json` and use the name and description properties.
-
-```
-$ create-repository
-```
-
-You can also pass values for name and description.
-
-```
-$ create-repository --name my-new-project --description "That's all I have to say about that"
-```
+## Folder Structure
+See structure in this repo for assets, styles, and scripts.
 
 ## License
-
 MIT
