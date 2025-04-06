@@ -1,21 +1,17 @@
 {
-  # Tesla Dynamics Investment Website
-
-This is the official frontend of the Tesla Dynamics Investment platform. Built with plain HTML, CSS, and JavaScript.
-
-## Features
-- Responsive homepage
-- Admin dashboard (coming soon)
-- Integration with Tesla Logistics API
-
-## Setup
-1. Clone the repository
-2. Open `index.html` in a browser
-
-## Folder Structure
-See structure in this repo for assets, styles, and scripts.
-
-## License
-MIT
+  "name": "tesla-dynamics-giveaway",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "json2csv": "^6.0.0",
+    "mongoose": "^7.3.4",
+    "nodemailer": "^6.9.5"
   }
 }
