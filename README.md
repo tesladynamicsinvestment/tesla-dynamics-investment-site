@@ -1,9 +1,9 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html><htmlwww.tesladynamicsgiveaway.com lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Tesla Dynamics Grand Giveaway</title>
-  <script src="https://tesladynamicsgiveaway.com/signup"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-50 text-gray-800">
   <header class="bg-white shadow">
