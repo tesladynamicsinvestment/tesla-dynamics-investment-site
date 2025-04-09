@@ -1,4 +1,4 @@
-import { Card, CardContent } from "@/components/ui/card";
+#import { Card, CardContent } from "@/components/ui/card";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 import { Button } from "@/components/ui/button";
 import { CalendarDays, FileText, LayoutDashboard, Users, Mail } from "lucide-react";
